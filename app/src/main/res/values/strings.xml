@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="Tituloprincipal">Conexión a la base de datos</string>
+    <string name="mostrar"> Continuar </string>
+    <string name="continuar"> Mostrar </string>
+    <string name="consultar"> Consultar </string>
+    <string name="Modificar"> Modificar </string>
+    <string name="insertar"> Insertar </string>
+    <string name="editar"> Editar </string>
+    <string name="Borrar"> Borrar </string>
+    <string name="volver"> Volver </string>
+</resources>
